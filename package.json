@@ -1,0 +1,31 @@
+{
+  "name": "TheBigPicture",
+  "version": "0.0.1",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArnaudD/TheBigPicture.git"
+  },
+  "keywords": [
+    "rasterize",
+    "source",
+    "phantomjs",
+    "poster"
+  ],
+  "author": "Arnaud Didry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnaudD/TheBigPicture/issues"
+  },
+  "homepage": "https://github.com/ArnaudD/TheBigPicture",
+  "dependencies": {
+    "async": "^0.9.0",
+    "glob": "^4.3.5",
+    "phantomjs": "^1.9.15",
+    "shelljs": "^0.3.0"
+  }
+}
